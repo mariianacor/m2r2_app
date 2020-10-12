@@ -17,7 +17,7 @@ Created by:
 Here´s a sneak peak into our app ;)
 
 
-![Image](static/images/m2r2-app-preview-2.jpg)
+![Image](m2r2-app-preview-2.jpg)
 
 
 
